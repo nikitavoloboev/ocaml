@@ -30,6 +30,7 @@ Join [Discord](https://discord.com/invite/TVafwaD23d) for more indepth discussio
 
 - setup minimal ocaml env
   - running `opam init` gave me error (following [this doc](https://ocaml.org/docs/up-and-running#installation-on-unix))
+- do [99 ocaml questions](https://www.youtube.com/watch?v=QL3bBkHZlyI)
 
 ### ♥️
 
